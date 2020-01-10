@@ -1,0 +1,18 @@
+ob1:
+100.12 100.13
+ob2:
+100.12 100.13
+Addition:
+200.24 200.26
+Subtraction:
+0.00 0.00
+Multiplication:
+10024.01 10026.02
+Division:
+1.00 1.00
+ob1 = ob2 ? YES
+ob1 != ob2 ? NO
+ob1 < ob2 ? NO
+ob1 > ob2 ? NO
+ob1 <= ob2 ? YES
+ob1 >= ob2 ? YES
